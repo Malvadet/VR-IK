@@ -1,2 +1,2 @@
 # VR-IK
-Method for full hybrid full body trecking
+Method for hybrid full body trecking
